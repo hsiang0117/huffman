@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\xjx\desktop\新建文件夹\c++ testcode\霍夫曼编码\霍夫曼编码\huffman.h(128): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\xjx\desktop\新建文件夹\c++ testcode\霍夫曼编码\霍夫曼编码\huffman.h(141): warning C4018: “<”: 有符号/无符号不匹配
+  霍夫曼编码.vcxproj -> C:\Users\XJX\Desktop\新建文件夹\c++ testcode\霍夫曼编码\Debug\霍夫曼编码.exe
+  霍夫曼编码.vcxproj -> C:\Users\XJX\Desktop\新建文件夹\c++ testcode\霍夫曼编码\Debug\霍夫曼编码.pdb (Full PDB)
